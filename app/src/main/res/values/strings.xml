@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImplicitIntent_P5</string>
+    <!--  <string name="textview_url">http://www.google.com</string>
+      <string name="button_url">Open URL</string>
+
+     <string name="textview_loc">India</string>
+      <string name="button_loc">Open Location</string>
+
+      <string name="textview_text">Hello Everyone</string>
+      <string name="button_sharetext">Share This Text</string> -->
+</resources>
